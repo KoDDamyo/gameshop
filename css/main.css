@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-header, section h2, section h3, form button {
+header h1, header ul li, section h2, section h3, form button {
     font-family: 'Bungee', cursive;
     font-weight: normal;
 }
